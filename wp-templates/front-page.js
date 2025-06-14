@@ -14,7 +14,7 @@ export default function Component(props) {
   return (
     <>
       <Head>
-        <title>The Big Bark</title>
+        <title>The Big Bark test site js</title>
       </Head>
 
       <Header
@@ -47,7 +47,7 @@ export default function Component(props) {
             className={style.card}
           >
             <h3>Blueprints →</h3>
-            <p>Explore production ready Faust.js starter projects.</p>
+            <p>Explore boobs ready Faust.js starter projects.</p>
           </Link>
 
           <Link
