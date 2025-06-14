@@ -24,11 +24,11 @@ export default function Component(props) {
       />
 
       <main className="container">
-        <EntryHeader title="Welcome to the Faust Scaffold Blueprint" />
+        <EntryHeader title="Welcome to The Big Bark - Bringing all the canine stories to you" />
 
         <section className={style.cardGrid}>
           <Link
-            href="https://faustjs.org"
+            href="https://thebigbark.ie"
             target="_blank"
             rel="noopener noreferrer"
             className={style.card}
